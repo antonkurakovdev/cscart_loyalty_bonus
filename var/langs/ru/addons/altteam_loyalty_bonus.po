@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.net\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2014-07-22 06:00-0400\n"
+
+msgctxt "Addons::name::altteam_loyalty_bonus"
+msgid "[Alt-Team] Loyalty bonus"
+msgstr "[Alt-Team] Бонус Постоянным Клиентам"
+
+msgctxt "Addons::description::altteam_loyalty_bonus"
+msgid "Allows to add total paid condition to promotion. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+msgstr "Позволяет давать постоянным клиентам скидки, в условиях промо-акции появляется новый параметр (Общая сумма покупок). Разработано <a target="_blank" href="https://alt-team.ru/">Alt-team</a>"
+
+msgctxt "SettingsOptions::altteam_loyalty_bonus::license_number"
+msgid "License number"
+msgstr "Номер лицензии"
+
+msgctxt "Languages::promotion_cond_total_paid"
+msgid "Total paid"
+msgstr "Всего оплачено"

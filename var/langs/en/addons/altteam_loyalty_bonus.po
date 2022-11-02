@@ -1,0 +1,21 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::altteam_loyalty_bonus"
+msgid "[Alt-Team] Loyalty bonus"
+msgstr "[Alt-Team] Loyalty bonus"
+
+msgctxt "Addons::description::altteam_loyalty_bonus"
+msgid "Allows to add total paid condition to promotion. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+msgstr "Allows to add total paid condition to promotion. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+
+msgctxt "SettingsOptions::altteam_loyalty_bonus::license_number"
+msgid "License number"
+msgstr "License number"
+
+msgctxt "Languages::promotion_cond_total_paid"
+msgid "Total paid"
+msgstr "Total paid"
